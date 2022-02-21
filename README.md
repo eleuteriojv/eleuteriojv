@@ -7,9 +7,9 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/eleuteriojv%22%3E
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eleuteriojv&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22/%3E
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalicelopes&layout=compact&langs_count=7&theme=dark%22/%3E
+  <a href="https://github.com/eleuteriojv%22%3E"></a>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eleuteriojv&show_icons=true&theme=dark&include_all_commits=true&count_private=true" /> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eleuteriojv&layout=compact&langs_count=7&theme=dark" />
 </div>
 <hr/>
 <div style="display: inline_block" align="center">
