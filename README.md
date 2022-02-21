@@ -10,7 +10,7 @@
   <a href="https://github.com/eleuteriojv%22%3E"></a>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eleuteriojv&show_icons=true&theme=dark&include_all_commits=true&count_private=true" /> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eleuteriojv&layout=compact&langs_count=7&theme=dark" />
-  <img title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img title="C#" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
 <hr/>
 <div style="display: inline_block" align="center">
