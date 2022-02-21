@@ -1,16 +1,23 @@
-### Hi there 👋
+<div align="center" style="font-weight: bold">Hi! 😃😃</div>
+- 🔭 Trainee<br/>
+- 🌱 Ambitious to learn C#<br/>
+- 📫 Me contate por: 
+- LinkedIn: https://www.linkedin.com/in/joaovitoreleuterio//<br/>
+- E-mail: joaovr2012@outlook.com
+<br/>
 
-<!--
-**eleuteriojv/eleuteriojv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/eleuteriojv%22%3E
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eleuteriojv&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22/%3E
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalicelopes&layout=compact&langs_count=7&theme=dark%22/%3E
+</div>
+<hr/>
+<div style="display: inline_block" align="center">
+  <img title=".NET CORE" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg%22/%3E
+  <img title="C#" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg%22/%3E
+  <img title="Python" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg%22/%3E
+  <img title="HTML" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg%22/%3E
+  <img title="CSS" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg%22/%3E
+  <img title="Bootstrap" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg%22/%3E
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
