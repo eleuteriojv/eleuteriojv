@@ -1,4 +1,4 @@
-<div align="center" style="font-weight: bold">Hi! 😃😃</div>
+<div align="center" style="font-weight: bold">Hello! 😃😃</div>
 - 🔭 Trainee<br/>
 - 🌱 Ambitious to learn C#<br/>
 - 📫 Me contate por: 
