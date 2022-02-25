@@ -1,7 +1,7 @@
 <div align="center" style="font-weight: bold">Hello! 😃😃</div>
 - 🔭 Trainee<br/>
 - 🌱 Ambitious to learn C#<br/>
-- 📫 Me contate por: 
+- 📫 Contact me: 
 - LinkedIn: https://www.linkedin.com/in/joaovitoreleuterio//<br/>
 - E-mail: joaovr2012@outlook.com
 <br/>
