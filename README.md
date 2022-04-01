@@ -25,7 +25,7 @@
   <h3>
     <b>Minhas estatistícas</b>
   </h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eleuteriojv&layout=compact"/>
   <img src="https://github-readme-stats.vercel.app/api?username=eleuteriojv&show_icons=true&theme=dracula"/>
 </div>
 <hr/>
