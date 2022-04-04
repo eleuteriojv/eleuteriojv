@@ -5,7 +5,6 @@
   <p><b>LinkedIn:<//b> https://www.linkedin.com/in/joaovitoreleuterio//</p>
   <p><b>E-mail:</b> joaovr2012@outlook.com</p>
  </div>
-<br/>
 <hr/>
 <div align="center">
   <h3>
