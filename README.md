@@ -1,7 +1,7 @@
 <div  style="font-weight: bold">
   <h3 align="center">Sobre mim</h3>
   <h5>
-    <b>Sou o João Vitor e estou graduando no curso de Sistemas de Informação(2024), com experiência em C# (ASP .NET CORE MVC, IDENTITY, DDD, Microsserviços, Entity Framework, SQL Server, MySQL e JavaScript. Nesse perfil você encontrará um pouco dos meus estudos e projetos aplicados na minha área de estudos.</b>
+    <b>Olá, me chamo João Vitor e estou graduando no curso de Sistemas de Informação(2024), com experiência em C# (ASP .NET CORE MVC, IDENTITY, DDD, Microsserviços, Entity Framework, SQL Server, MySQL e JavaScript. Nesse perfil você encontrará um pouco dos meus estudos e projetos aplicados na minha área de estudos.</b>
   </h5>
   <hr/>
   <h3 align="center">
@@ -25,12 +25,12 @@
   </p>
 </div>
 <hr/>
-<div align="center">
-  <h3>
+<div>
+  <h3 align="center">
     <b>Minhas estatistícas</b>
   </h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eleuteriojv&layout=compact"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=eleuteriojv&show_icons=true&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eleuteriojv&show_icons=true&theme=dracula" style="width: 41%"/>
 </div>
 </div>
 
