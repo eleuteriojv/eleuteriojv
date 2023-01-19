@@ -1,9 +1,13 @@
-<div align="center" style="font-weight: bold">
-  <h3>
-    <b>Contate-me</b>
+<div  style="font-weight: bold">
+  <h3 align="center">Sobre mim</h3>
+  <h5>
+    <b>Sou o João Vitor e estou graduando no curso de Sistemas de Informação(2024), com experiência em C# (ASP .NET CORE MVC, IDENTITY, DDD, Microsserviços, Entity Framework, SQL Server, MySQL e JavaScript. Nesse perfil você encontrará um pouco dos meus estudos e projetos aplicados na minha área de estudos.</b>
+  </h5>
+  <hr/>
+  <h3 align="center">
+    Contate-me
   </h3>
   <p><b>LinkedIn:<//b> https://www.linkedin.com/in/joaovitoreleuterio//</p>
-  <p><b>Meu WebSite<//b> https://eleuteriojv.github.io/Portifolio/</p>
   <p><b>E-mail:</b> joaovr2012@outlook.com</p>
  </div>
 <hr/>
