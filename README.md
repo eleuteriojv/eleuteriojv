@@ -1,7 +1,7 @@
 <div  style="font-weight: bold">
   <h3 align="center">Sobre mim</h3>
   <h5>
-    <b>Olá, me chamo João Vitor e estou graduando no curso de Sistemas de Informação com o término em 2024, possuo experiência na linguagem C# (ASP .NET CORE MVC, IDENTITY, DDD, Microsserviços, Entity Framework, SQL Server, MySQL e JavaScript). Nesse perfil você encontrará um pouco dos meus estudos e minha evolução dentro da programação.</b>
+    <b>Olá, me chamo João Vitor e estou graduando no curso de Sistemas de Informação com o término em 2024, possuo experiência na linguagem C# (ASP .NET CORE MVC, IDENTITY, Microsserviços, Entity Framework, SQL Server, MySQL e JavaScript). Nesse perfil você encontrará um pouco dos meus estudos e minha evolução dentro da programação.</b>
   </h5>
   <hr/>
   <h3 align="center">
